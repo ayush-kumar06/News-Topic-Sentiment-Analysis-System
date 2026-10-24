@@ -1,0 +1,13 @@
+headline,article,clean_text,topic_id,sentiment
+Technology stocks rise,Technology companies reported strong growth and investors celebrated higher profits.,technology stocks rise technology companies reported strong growth and investors celebrated higher profits,0,Positive
+AI innovation announced,Researchers developed a promising artificial intelligence system.,ai innovation announced researchers developed a promising artificial intelligence system,1,Positive
+Company faces losses,A large company reported falling profits and investors expressed concern.,company faces losses a large company reported falling profits and investors expressed concern,1,Negative
+Political leaders reach agreement,Political leaders reached an agreement and announced a positive policy.,political leaders reach agreement political leaders reached an agreement and announced a positive policy,1,Positive
+Government faces criticism,Government officials faced criticism after a controversial decision caused public anger.,government faces criticism government officials faced criticism after a controversial decision caused public anger,2,Negative
+Team wins championship,The team won the championship after an excellent performance.,team wins championship the team won the championship after an excellent performance,3,Positive
+Team suffers defeat,The team suffered a disappointing defeat after several costly mistakes.,team suffers defeat the team suffered a disappointing defeat after several costly mistakes,3,Negative
+Market growth continues,Businesses reported increased sales and stronger economic performance.,market growth continues businesses reported increased sales and stronger economic performance,0,Positive
+Successful medical treatment,Doctors reported successful treatment outcomes and improved patient recovery.,successful medical treatment doctors reported successful treatment outcomes and improved patient recovery,0,Positive
+Severe storm causes damage,A severe storm damaged homes and caused major disruption.,severe storm causes damage a severe storm damaged homes and caused major disruption,2,Negative
+New smartphone released,The smartphone offers innovative features and improved performance.,new smartphone released the smartphone offers innovative features and improved performance,0,Positive
+Company announces job cuts,The company announced job cuts following declining revenue and financial difficulties.,company announces job cuts the company announced job cuts following declining revenue and financial difficulties,1,Negative
