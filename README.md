@@ -125,7 +125,7 @@ This creates `news_analysis.csv`.
 streamlit run app.py
 ```
 
-Then open the local URL shown in your terminal (usually http://localhost:8501).
+[News Intelligence Dashboard] (demo.png).
 
 ---
 
