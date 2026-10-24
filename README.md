@@ -44,6 +44,7 @@ news-intelligence-dashboard/
 ├── data/
 │   └── news.csv          # Input dataset (headline, article)
 ├── news_analysis.csv     # Generated results used by the dashboard
+├── demo.png              # Dashboard screenshot shown in the README
 ├── requirements.txt
 └── README.md
 ```
@@ -125,7 +126,11 @@ This creates `news_analysis.csv`.
 streamlit run app.py
 ```
 
-[News Intelligence Dashboard] (demo.png).
+---
+
+## 🖼️ Dashboard Preview
+
+![News Intelligence Dashboard](demo.png)
 
 ---
 
